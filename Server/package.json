@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Challenge Gold, deadline 13 November 2023 (Chapter 8)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabacana/challenge_gold.git"
+  },
+  "keywords": [
+    "challenge_gold"
+  ],
+  "author": "Bayu Aji Pamungkas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabacana/challenge_gold/issues"
+  },
+  "homepage": "https://github.com/prabacana/challenge_gold#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
